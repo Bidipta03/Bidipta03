@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Bidipta Roy
-**A passionate Computer Science Engineer || GCELT'2027 || Data Analytics Engineer**
+**A passionate Computer Science Engineer || GCELT'2027 || B.Tech CSE Student | Aspiring Data Analyst | Python, SQL, Excel & Power BI | Interested in Data Analytics, Visualisation & Problem Solving.**
 
 Email Me 👉 ✉️ **bidiptaroy2002@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** 
-- 🌱 **I’m currently learning:** 
+- 🌱 **I’m currently learning: - Advanced Excel, SQL, Power BI, Data Analytics** 
 - 👯 **I’m looking to collaborate on:** 
 - 🤔 **I’m looking for help with:** 
 - 💬 **Ask me about:** 
